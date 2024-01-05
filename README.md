@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenneth Loi
-- 👀 Researching biology and Developing biomolecular technologies
+- 👀 Researching and Developing biomolecular technologies
 - 🌱 I’m currently studying molecular and cellular biology at UC Berkeley.
-- 💞️ I’m looking to collaborate on high throughput methods for interpreting multiomics data.
+- 💞️ I’m looking to collaborate on computational biology projects
 - 📫 Reach me: @kenjmloi on Twitter, or email me at kenjmloi@berkeley.edu
 
 <!---
